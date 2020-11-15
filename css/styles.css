@@ -1,0 +1,97 @@
+body{
+  background-color: #3797a4;
+}
+
+.top-pattern{
+  position: relative;
+  bottom: 500px;
+  right: 350px;
+}
+
+.profile-container{
+
+  background-color: white;
+  height: 400px;
+  width: 350px;
+  margin: 150px auto auto auto;
+  border-radius: 5%;
+  position: relative;
+  position: absolute;
+  top: 40px;
+  left: 500px;
+}
+
+.name-txt{
+  margin: 45px auto auto 85px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.txtspan{
+  font-size: 90%;
+  padding-left: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.credits{
+  position: absolute;
+  bottom: 30px;
+  margin: auto;
+}
+
+.patcard{
+  border-top-right-radius: 7%;
+  border-top-left-radius: 7%;
+}
+
+.victorimg{
+  border-style: solid;
+  border-color: white;
+  border-radius: 100%;
+  position: absolute;
+  bottom: 220px;
+  right: 125px
+}
+
+.city{
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.following{
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 55px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.followinginfo1{
+  position: absolute;
+  bottom: 4px;
+  left: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.followinginfo2{
+  position: absolute;
+  bottom: 4px;
+  left: 150px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.followinginfo3{
+  position: absolute;
+  bottom: 4px;
+  left: 245px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-pattern{
+  position: relative;
+  left: 500px;
+  bottom: 550px;
+}
+
+.credits{
+  margin-top: 200px;
+}
